@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.Form1.resources
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.Loginform.resources
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.signinform.resources
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.UserControl1.resources
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\bin\Debug\Grifindo_toys_payroll_system1.exe.config
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\bin\Debug\Grifindo_toys_payroll_system1.exe
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\bin\Debug\Grifindo_toys_payroll_system1.pdb
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.csproj.CopyComplete
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.exe
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.pdb
+C:\Users\DELL\source\repos\Grifindo_toys_payroll_system1\obj\Debug\Grifindo_toys_payroll_system1.welcome_form.resources
